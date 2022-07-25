@@ -8,13 +8,13 @@
 - discord.py
 - Make Minecraft Plugins
 ## Services being supported
-- SaengYag Plugins - [PlayerDashboard]
+- Plugins - [PlayerDashboard,JM, Tablists]
 - MDWMC Plugins
 - Friend-server Plugins
 - profilecord.com/home
 - JBBPorum
 - Test-ServerWild by Friend - SkUnity
-- Bot Named "Walkers, Nyaneo_Bot, CraftInfo, McSkins"
+- Bot Named "Walkers, Nyaneo_Bot, CraftInfo, McSkins, 양동이"
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlagFan34272)](https://github.com/anuraghazra/github-readme-stats)
