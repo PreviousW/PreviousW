@@ -11,7 +11,7 @@
 - Plugins - [PlayerDashboard,JM, Tablists]
 - MDWMC Plugins
 - Friend-server Plugins
-- profilecord.com/home
+
 - JBBPorum
 - Test-ServerWild by Friend - SkUnity
 - Bot Named "Walkers, Nyaneo_Bot, CraftInfo, McSkins, 양동이"
