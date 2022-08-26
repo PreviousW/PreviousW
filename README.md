@@ -11,7 +11,7 @@
 - Plugins - [PlayerDashboard,JM, Tablists]
 - MDWMC Plugins
 - Friend-server Plugins
-- Cr4ep Onlysword Server's System (the server's 99% is made by me)
+- Creep Onlysword Server's System (the server's 99% is made by me)
 - JBBPorum
 - Test-ServerWild by Friend - SkUnity
 - Bot Named "Walkers, Nyaneo_Bot, CraftInfo, McSkins, 양동이"
