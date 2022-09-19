@@ -1,6 +1,6 @@
 # 학생 개발자
 ## I Can do this..
-- C
+- C#
 - Java
 - Html , css , Js
 - React (little)
