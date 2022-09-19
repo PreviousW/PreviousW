@@ -1,7 +1,7 @@
 # 학생 개발자
-## I Can do this..
+## I Can 
 - C#
-- Java <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"/>
+- Java 
 - Html , css , Js
 - React (little)
 - python
