@@ -1,7 +1,7 @@
 # 학생 개발자
 ## I Can do this..
 - C#
-- Java <img src="https://img.shields.io/badge/JAVA-FFCA28?style=flat-square&logo=Java&logoColor=white"/>
+- Java <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"/>
 - Html , css , Js
 - React (little)
 - python
