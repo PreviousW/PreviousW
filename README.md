@@ -9,16 +9,16 @@
 - Make Minecraft Plugins
 ## Services being supported
 - Plugins - [PlayerDashboard,JM, Tablists, SpecificConfig, ResourcePackBroker, mineMC, AdminPanel, lpRankManager,duel, WarnSys etc.]
-#server - Plugins
+## server - Plugins
 - MDWMC Plugins
 - Friend-server Plugins
 - Creep Onlysword Server's System (the server's 99% is made by me)
 - JBBPorum
 - Test-ServerWild by Friend - SkUnity
-##Discord bots
+# Discord bots
 - Bot Named "Walkers, Nyaneo_Bot, CraftInfo, McSkins, 양동이, 퍼프봇1,NEC"
 ## Server
-#Odroid - N2+
+# Odroid - N2+
 - http://nyaneo-n2.rf.gd 
 
 
