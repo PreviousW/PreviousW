@@ -1,11 +1,11 @@
 # 학생 개발자
-## I Can 
-- C#
+## I Can..
+- C# 
 - Java 
 - Html , css , Js
 - React (little)
 - python
-- discord.py
+- discord.py , pycord
 - Make Minecraft Plugins
 ## Services being supported
 - Plugins - [PlayerDashboard,JM, Tablists, SpecificConfig, ResourcePackBroker, mineMC, AdminPanel, lpRankManager,duel, WarnSys etc.]
@@ -17,8 +17,8 @@
 - Test-ServerWild by Friend - SkUnity
 # Discord bots
 - Bot Named "Walkers, Nyaneo_Bot, CraftInfo, McSkins, 양동이, 퍼프봇1,NEC"
-## Server
-# Odroid - N2+
+# Server
+## Odroid - N2+
 - http://nyaneo-n2.rf.gd 
 
 
