@@ -8,13 +8,19 @@
 - discord.py
 - Make Minecraft Plugins
 ## Services being supported
-- Plugins - [PlayerDashboard,JM, Tablists]
+- Plugins - [PlayerDashboard,JM, Tablists, SpecificConfig, ResourcePackBroker, mineMC, AdminPanel, lpRankManager,duel, WarnSys etc.]
+#server - Plugins
 - MDWMC Plugins
 - Friend-server Plugins
 - Creep Onlysword Server's System (the server's 99% is made by me)
 - JBBPorum
 - Test-ServerWild by Friend - SkUnity
-- Bot Named "Walkers, Nyaneo_Bot, CraftInfo, McSkins, 양동이"
+##Discord bots
+- Bot Named "Walkers, Nyaneo_Bot, CraftInfo, McSkins, 양동이, 퍼프봇1,NEC"
+## Server
+#Odroid - N2+
+- http://nyaneo-n2.rf.gd 
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlagFan34272)](https://github.com/anuraghazra/github-readme-stats)
