@@ -22,6 +22,10 @@
 - duel
 - WarnSys 
 - KitPvP
+- EnterEnabler
+- YFallenTP
+- Custom Updates
+- PlayerPrefix
 
 ## [🤖 Bots]
 - NEC (팀)
