@@ -52,7 +52,7 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlagFan34272)](https://github.com/anuraghazra/github-readme-stats)
+[![FlagFan34272's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlagFan34272)](https://github.com/FlagFan34272/github-readme-stats)
 
 <!---
 FlagFan34272/FlagFan34272 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
