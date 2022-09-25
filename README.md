@@ -1,7 +1,7 @@
 # 학생 개발자
 ## 🛠▪︎Languages
 <img src="https://img.shields.io/badge/Launcher-C%23-yellow">
-<img src=" https://img.shields.io/badge/Plugin-Java-green">
+<img src="https://img.shields.io/badge/Plugin-Java-green">
 <img src="https://img.shields.io/badge/web-Html%2C%20Css-lightgrey">
 <img src = "https://img.shields.io/badge/Web%20App-Js-orange">
 <img src ="https://img.shields.io/badge/Learning-React.js-yellowgreen">
