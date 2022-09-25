@@ -10,17 +10,39 @@
 <img src="https://img.shields.io/badge/Discord-Python-blue">
 
 ## My Services
-- Plugins - [PlayerDashboard,JM, Tablists, SpecificConfig, ResourcePackBroker, mineMC, AdminPanel, lpRankManager,duel, WarnSys etc.]
-## server - Plugins
-- MDWMC Plugins
-- Friend-server Plugins
+- [💻 Plugins]
+- PlayerDashboard
+- JM
+- Tablists
+- SpecificConfig
+- ResourcePackBroker
+- mineMC
+- AdminPanel
+- lpRankManager
+- duel
+- WarnSys 
+- KitPvP
+
+- [🤖 Bots]
+- NEC
+- 양동이
+- 퍼프봇 (팀)
+
+## TEAMS
+- TEAM FEP
+- TEAM NEC
+- TEAM TROS
+- TEAM FUNC()
+
+## server services
+- MdwMc
+- Friend-server
 - Creep Onlysword Server's System (the server's 99% is made by me)
 - JBBPorum
-- Test-ServerWild by Friend - SkUnity
-# Discord bots
-- Bot Named "Walkers, Nyaneo_Bot, CraftInfo, McSkins, 양동이, 퍼프봇1,NEC"
+- Creep Squid Game
+
 # Server
-## Odroid - N2+
+- [Odroid - N2+]
 - http://nyaneo-n2.rf.gd 
 
 
