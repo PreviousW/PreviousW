@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Discord-Python-blue">
 
 # My Services
-##[💻 Plugins]
+## [💻 Plugins]
 - PlayerDashboard
 - JM
 - Tablists
@@ -24,7 +24,7 @@
 - KitPvP
 
 ## [🤖 Bots]
-- NEC
+- NEC (팀)
 - 양동이
 - 퍼프봇 (팀)
 
