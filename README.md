@@ -1,12 +1,15 @@
 
 ## 🛠▪︎Languages
 <img src="https://img.shields.io/badge/Launcher-C%23-yellow"> <img src="https://img.shields.io/badge/Plugin-Java-green">
+
 <img src="https://img.shields.io/badge/web-Html%2C%20Css-lightgrey"> <img src = "https://img.shields.io/badge/Web%20App-Js-orange">
+
 <img src ="https://img.shields.io/badge/Learning-React.js-yellowgreen"> <img src ="https://img.shields.io/badge/Learning-Kotlin-yellowgreen">
+
 
 <img src="https://img.shields.io/badge/Discord-Python-blue">
 
-## Services being supported
+## My Services
 - Plugins - [PlayerDashboard,JM, Tablists, SpecificConfig, ResourcePackBroker, mineMC, AdminPanel, lpRankManager,duel, WarnSys etc.]
 ## server - Plugins
 - MDWMC Plugins
