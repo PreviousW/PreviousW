@@ -9,8 +9,8 @@
 
 <img src="https://img.shields.io/badge/Discord-Python-blue">
 
-## My Services
-- [💻 Plugins]
+# My Services
+##[💻 Plugins]
 - PlayerDashboard
 - JM
 - Tablists
@@ -23,7 +23,7 @@
 - WarnSys 
 - KitPvP
 
-- [🤖 Bots]
+## [🤖 Bots]
 - NEC
 - 양동이
 - 퍼프봇 (팀)
