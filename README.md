@@ -1,12 +1,13 @@
 # 학생 개발자
-## I Can..
-- C# 
-- Java 
-- Html , css , Js
-- React (little)
-- python
-- discord.py , pycord
-- Make Minecraft Plugins
+## 🛠▪︎Languages
+- https://img.shields.io/badge/Launcher-C%23-yellow
+- https://img.shields.io/badge/Plugin-Java-green
+- https://img.shields.io/badge/web-Html%2C%20Css-lightgrey
+- https://img.shields.io/badge/Web%20App-Js-orange
+- https://img.shields.io/badge/Learning-React.js-yellowgreen
+- https://img.shields.io/badge/Learning-Kotlin-yellowgreen
+- https://img.shields.io/badge/Discord-Python-blue
+
 ## Services being supported
 - Plugins - [PlayerDashboard,JM, Tablists, SpecificConfig, ResourcePackBroker, mineMC, AdminPanel, lpRankManager,duel, WarnSys etc.]
 ## server - Plugins
