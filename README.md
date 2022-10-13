@@ -1,3 +1,9 @@
+## 소개
+- 안녕하세요! 자바 / python, ~~html,css,~~ js를 주 언어로써 활용. 개발 하는 냐너입니다!
+
+- Java -> Minecraft Plugins
+- Python -> discord bot, exe program
+- JS -> web and discord bot
 
 ## 🛠▪︎Languages
 <img src="https://img.shields.io/badge/Launcher-C%23-yellow"> <img src="https://img.shields.io/badge/Plugin-Java-green">
