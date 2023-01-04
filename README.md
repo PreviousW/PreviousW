@@ -1,60 +1,89 @@
-## 소개
-- 안녕하세요! 자바 / python / ~~html,css,~~ js/ C# 을 주 언어로써 활용. 개발 하는 냐너입니다!
+# 언어
+## 사용언어
+- Java
+- python
+- JavaScript
+- C#
+## 사용 경험 혹은 배우고있는 언어
+- lua
+- react.js
+- C
+- Flask
+- Golang(때려침)
 
-- Java -> Minecraft Plugins
-- Python -> discord bot, exe program
-- JS -> web and discord bot
-- C# -> Minecraft Launcher, Useful applications
-## 🛠▪︎Languages
-<img src="https://img.shields.io/badge/Launcher-C%23-yellow"> <img src="https://img.shields.io/badge/Plugin-Java-green">
 
-<img src="https://img.shields.io/badge/web-Html%2C%20Css-lightgrey"> <img src = "https://img.shields.io/badge/Web%20App-JS-orange">
+# 활동 분야
+## 디스코드 봇 개발자
+- Team Tros 공동 총괄 및 개발 및 기획자(python, py-cord)
+- Team NEC 총괄 및 개발 및 기획자(python, discord.py)
 
-<img src ="https://img.shields.io/badge/Learning-React.js-yellowgreen"> <img src ="https://img.shields.io/badge/Learning-Kotlin-yellowgreen">
+## 사이트 기획 및 개발
+- Team Tros 복주머니 프로젝트(개발 연기)
 
+## 마인크래프트 서버 및 플러그인, 런처, 클라이언트 개발자
+- Neon Online 서버 주인장 (Java)
+- pvpconnect.xyz 서버 개발자 (Java)
+- lfsv season1 개발자 (Java)
+- UTI PVP LAUNCHER,  Client 개발자 (C#, winform), (Java, mcp919), (developing)
+- Team Clientitanium UniverseClient 개발자(Java, mcp919)
 
-<img src="https://img.shields.io/badge/Discord-Python-blue"> <img src="https://img.shields.io/badge/Discord-JS-blue">
+## 대표적 작품들
+- 네온봇
+- NEC
+- GameManager8070
+- Gamemanager8080
+- Gamemanager8090
+- Neon Services
+- 퍼프봇 (중단)
 
-# My Services
-## [💻 Plugins]
-- PlayerDashboard
-- JM
-- Tablists
-- SpecificConfig
-- ResourcePackBroker
-- mineMC
-- AdminPanel
-- lpRankManager
-- duel
-- WarnSys 
+- PLCommandBlocKer
+- LPRM(LuckPermRankset-Manager) 
+- AdvancedWarnManager
+- DuelsPvP
+- AdvancedEventMessages
+- setHomeKrversion
+- HighlightFly
+- CanTsleeP
+- randomCouponGenerator
+- ClassicKit
+- PvPKitStorer
+- superBogu
 - KitPvP
-- EnterEnabler
-- YFallenTP
-- Custom Updates
-- PlayerPrefix
-- notSleep
+- DoNotTouchLiquid
+- DoNotTouchGreenblok
+- FuckingEnablin
+- ShiftfMenu
+- ShiftQMenu
+- CustomGui
+- Creepsystems
+- Neononline
+- NeonWILD
+- ItemgetEvent
+- MintEconomy
+- MintEconomyplus
+- BlaklistsRKik
+- CustomChatprefixFormatter
+- CustomMarket
+- AWSomeone
+- lfsktoPl
+- GUI
+- fuckBotnet
+- UltimateEc
+- MintecLib
+- MintecAPI
+- FastestestestRTP
+- WEBUserInformSiteconnector
+- KIServerPrivate
+- kILib
+- fuckingsk
+- YIConvertSkToPl
 
-## [🤖 Bots]
-- NEC (팀)
-- 양동이
-- 퍼프봇 (팀)
+UTI LAUNCHER(DEVELOPING)
 
-## TEAMS
-- TEAM FEP
-- TEAM NEC
-- TEAM TROS
-- TEAM FUNC()
-
-## server services
-- MdwMc
-- Friend-server
-- Creep Onlysword Server's System (the server's 99% is made by me)
-- JBBPorum
-- Creep Squid Game
-
-# Server
-- [Odroid - N2+]
-- http://nyaneo-n2.rf.gd 
+제 3회 한디리 출품작 네온봇 - https://github.com/Neon-Bots/Neon-Bot
+복주머니 프로젝트(개발중단)
+마크서버 상태조회 사이트
+마크 유저 uuid, 스킨 검색 사이트
 
 
 
