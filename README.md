@@ -78,12 +78,16 @@
 - fuckingsk
 - YIConvertSkToPl
 
-UTI LAUNCHER(DEVELOPING)
+- UTI LAUNCHER(DEVELOPING)
 
-제 3회 한디리 출품작 네온봇 - https://github.com/Neon-Bots/Neon-Bot
-복주머니 프로젝트(개발중단)
-마크서버 상태조회 사이트
-마크 유저 uuid, 스킨 검색 사이트
+- 제 3회 한디리 출품작 네온봇 - https://github.com/Neon-Bots/Neon-Bot
+- 복주머니 프로젝트(개발 연기)
+- 마크서버 상태조회 사이트
+- 마크 유저 uuid, 스킨 검색 사이트
+
+
+
+
 
 
 
