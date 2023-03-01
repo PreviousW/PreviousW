@@ -10,10 +10,10 @@
     - JS
     - ~~html, css~~
     - C#
+    - Kotlin 
     
 
     **Learn & Sub - lang**
-    - Kotlin
     - Flask
     - react.js
 
