@@ -4,20 +4,20 @@
    
 ## 🛠 Used Lang
 
-    **Main**
-    - Java
-    - Python
-    - JS
-    - ~~html, css~~
-    - C#
-    - Kotlin 
+**Main**
+- Java
+- Python
+- JS
+- ~~html, css~~
+- C#
+- Kotlin 
     
 
-    **Learn & Sub - lang**
-    - Flask
-    - react.js
+**Learn & Sub - lang**
+- Flask
+- react.js
 
-    **Database**
-    - mysql
+**Database**
+- mysql
 
 
