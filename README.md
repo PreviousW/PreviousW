@@ -21,3 +21,4 @@
 - mysql
 
 
+[![FlagFan34272's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlagFan34272)](https://github.com/anuraghazra/github-readme-stats)
