@@ -10,7 +10,7 @@
 - JS
 - ~~html, css~~
 - C#
-- Kotlin 
+- Kotlin (lack of understanding..)
     
 
 **Learn & Sub - lang**
