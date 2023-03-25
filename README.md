@@ -1,6 +1,6 @@
 # 👋 Hello, I am a student developer, Nyaneo!
 
-<h3 align="center">I am an All-feather Developer of PvPConnect</h3>
+<h3 align="center">I am an Developer of PvPConnect</h3>
    
 ## 🛠 Used Lang
 
