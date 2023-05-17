@@ -1,43 +1,14 @@
 <h1 align="center">Minecraft && Discord Developer</h1>
 
 
-```sql
-INSERT INTO dev (name, most_like_lang, dev-at) VALUES ('nyaneo', 'kotlin', 'pvpconnect');
-```
+<img src = "https://github-widgetbox.vercel.app/api/profile?username=FlagFan34272&data=followers,repositories,stars,commits">
 
-```
-________________________________________
-| dev                                  |
-________________________________________
-|  name  | most_like_lang |   dev-at   |
-----------------------------------------
-| nyaneo |     kotlin     | pvpconnect |
-________________________________________
-```
+<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?names=kotlin,java,python,csharp,javascript,mysql,mongodb&includeNames=true"></p>
 
-<hr />
-
-<h2 align="center">Main Languages</h2>
-
-<center> 
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40">
-
-</center>
-
-<hr>
-
-<h2 align="center">Sub Languages</h2>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40" align="center">
+<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode"></p>
 
 
-<hr>
-
-<h2 align="center">DataBases</h2>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40">
-
+ 
 <hr>
 
 <h2 align="center">Libraries</h2>
