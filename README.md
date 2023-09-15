@@ -3,7 +3,7 @@
 
 <img src = "https://github-widgetbox.vercel.app/api/profile?username=FlagFan34272&data=followers,repositories,stars,commits">
 
-<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?names=kotlin,java,python,csharp,javascript,mysql,mongodb&includeNames=true"></p>
+<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?names=kotlin,java,python,csharp,typescript,react,javascript,svelte,mysql,mongodb&includeNames=true"></p>
 
 <p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode"></p>
 
