@@ -1,7 +1,7 @@
 <h1 align="center">
 All repos' are private!
 </h1>
-<p>I like programming for Kotlin, Python. </p>
+<p>I like programming with Kotlin, Python. </p>
 
 <p>I can make minecraft plugins, discord bots, and more various programs.</p>
 
