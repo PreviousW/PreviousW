@@ -11,3 +11,4 @@ All repos' are private!
 
 <p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode"></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlagFan34272)](https://github.com/FlagFan34272)
