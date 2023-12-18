@@ -7,7 +7,7 @@ All repos' are private!
 
 <p>I am interested in linux.</p>
 
-<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?names=kotlin,java,python,mongodb&includeNames=true"></p>
+<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?names=kotlin,java,svelte,python,mongodb&includeNames=true"></p>
 
 <p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode"></p>
 
