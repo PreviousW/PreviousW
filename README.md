@@ -1,11 +1,11 @@
 <h1 align="center">
 All repos' are private!
 </h1>
-<p>I like programming with Kotlin, Python. </p>
+<p>I like programming with Kotlin, Python, svelte, vanilla js. </p>
 
 <p>I can make minecraft plugins, discord bots, and more various programs.</p>
 
-<p>I am interested in linux.</p>
+<p>I am interested in linux software.</p>
 
 <p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?names=kotlin,java,svelte,python,mongodb&includeNames=true"></p>
 
