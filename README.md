@@ -14,6 +14,9 @@ I'm Nyaneo, student developer of Korea, Republic of! 🇰🇷
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/2048px-Logo-ubuntu_cof-orange-hex.svg.png" alt="ubuntu" height="50" weight="50">
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=FlagFan34272&label=Profile%20views&color=0e75b6&style=flat" alt="me-counter" />
+
+
 # 📘 Servicing : 
 - [PvPConnect](https://github.com/PVPCONNECT)
 - [Ce-Dol-E (크돌이)](https://discord.com/api/oauth2/authorize?client_id=974665354573930507&permissions=2150754400&scope=bot+applications.commands)
