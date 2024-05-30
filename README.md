@@ -1,29 +1,9 @@
-<h1 align="center">
-I'm Nyaneo, student developer of Korea, Republic of! 🇰🇷
-</h1>
+<h1 align="center">Under Maintenance</h1><br />
+<p>최근 공개해둔 모든 코드의 퀄리티가 현재 실력과 비례하지 않으며 과거에 작성된 병신코드 모음집 & 몇몇 fork 제외하면 거창 할 것 없는 진짜 말 그대로 쓰레기 저장소라 판단. 조만간 정리 예정입니다.</p>
 
+# 나도 이참에 말좀 하자
+## 🫠 이런 사람들은 싫어요!
+- 저는 제 깃허브를 (1) 저 자신의 메모장이자 저장소, 그리고 과거의 기록을 보며 보완점을 찾아내어 스스로 보완하는 용도. (2) 지인들과의 공유나 코윗미 등으로 함께 가지고 놀던 코드에 그 지인들도 용이하게 접근하게 하기 위해 사용중이지, 저의 해명이 이루어 질 수 없는 곳에서 코드가 평가되거나 그 코드로 모욕을 당하고자 사용하는 것이 아닙니다. 제가 코드를 어떻게 짜든 띄어쓰기를 어떻게 하든 뭐 친구들과의 흔적이 남아있어 이상한 주석이 달려있든 뭐라고 하지 좀 마세요. 언제부터 코딩에 정답이 있었죠? 패키지 이름 소문자 시작같이 형식을 조금 지키라는 의도라면 이해가 간다지만.. 그 외까지 본인들이 지나치게 간섭하는 것은 싫습니다.
 
-# Stats : 
-<p align="left">
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/kotlin.svg" alt="kotlin" height="50" weight="50">
-  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/java.svg" alt="java" height="50" weight="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" alt="svelte" height="50" weight="50">
-  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg" alt="python" height="50" weight="50">
-  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg" alt="javascript" height="50" weight="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="mongodb" height="50" weight="150">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/2048px-Logo-ubuntu_cof-orange-hex.svg.png" alt="ubuntu" height="50" weight="50">
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=FlagFan34272&label=Profile%20views&color=0e75b6&style=flat" alt="me-counter" />
-
-
-# 📘 Servicing : 
-- [PvPConnect](https://github.com/PVPCONNECT)
-- [Ce-Dol-E (크돌이)](https://discord.com/api/oauth2/authorize?client_id=974665354573930507&permissions=2150754400&scope=bot+applications.commands)
-- TCP-Proxy-Test-Socket-Botnet (Not for illegal purposes.)
-
-# 👤 Team :
-- BoraLab
-- Pconn Network HeadOwner
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlagFan34272)](https://github.com/FlagFan34272)
+## 🙄 앞으로 어떻게?
+- 일부를 제외하고, 특정 커뮤니티나 인원과 과거에 어떤 관계였든 신경 끄고 현생과 학교 활동에 집중하고자 합니다. 주제넘게 어떤 서비스를 운영 할 실력도 모자라며, 벌써부터 서비스니 뭐니 나대기보다는, 제 현생을 살아가는 데에 집중하고자 합니다. 해당 과정에서 친구들과 짠 코드가 깃허브에 올라오는 과정이 있을 수 있고, 그럴 경우 대부분 주석 등으로 진지하지 않은, 장난스러운 순간들이 묻어나는 때가 있습니다. 코틀린을 배우던 극 초반 친구와 함께 spigot api를 코틀린으로 써보며 배워가던 중, 함께 더 간단하게 만들어보고자 라이브러리의 개념도 정립되지 않은 채 KLib이라는걸 대충 만들고 주석에는 서로 장난도 쳐두고 그 상태로 커밋을 올린 적이 있습니다. 아니나 다를까 몇 사람이 불편함을 표하는 이슈와 디스코드 연락을 하더라구요? 이걸 기점으로 깨달았습니다. **누군가에게 깃허브는 간단하게 자신들이 짜두었던 코드를 저장해둘 수 있는 용도로 받아들여지지 않고 정확히 어떤 분야에 대해 아는 사람이 완성품을 올리는 공간이지, 초보자들이 배우면서 자신의 경험을 올리는 공간은 아니라고 생각한다는 걸요**. 뭐 싫으면 제가 gitea로 이주하면 되겠지만 **남들 시선 신경쓰자고 내가 그렇게까지 해야하는가?** 싶더라고요. 남들 눈치 보느라 거의 깃허브가 쓰레기장이 되어간다는 것도 느꼈고요. 그래서 앞으로 하고자 하는 깃허브의 방향성은, 남 눈치 안보고 나 올리고 싶은대로 올릴겁니다. 네 뭐 그렇다고요.
