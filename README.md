@@ -1,5 +1,4 @@
 ~~Backend~~
 - ~~noob~~
 
-Science to python
-- I especially like about Space-Science
+방향성을 잃은 사람
